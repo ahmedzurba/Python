@@ -1,0 +1,9 @@
+# config include the api key for the movie DB
+#   to get one you can create a new user and get your api key
+config.py
+
+# pycharm files
+.idea
+scratches/
+venv
+__pycache__/
